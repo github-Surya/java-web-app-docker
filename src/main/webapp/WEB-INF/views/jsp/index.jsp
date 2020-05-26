@@ -39,7 +39,7 @@
 <div class="container">
 
 	<div class="row">
-		<div class="col-md-4">
+		<div class="col-md-8">
 			<h2>Welcome to Mithun Technlogies, Marthahalli, Bangalore</h2>
 			<h3>Contact @ +91-8296242028, +91-9980923226</h3>
 			
